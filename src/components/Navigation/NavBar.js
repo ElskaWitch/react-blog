@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import NavBarCard from "./NavBarCard";
+import NavBarCard from "../Card/NavBarCard";
 
 export default function NavBar() {
   const items = [
